@@ -1,1 +1,4 @@
+.vscode
 main
+cards/*.txt
+debug.test
