@@ -1,4 +1,4 @@
 .vscode
 main
-cards/*.txt
+*cards/*.txt
 debug.test
